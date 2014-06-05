@@ -1,0 +1,82 @@
+{
+    "showResult": true,
+	"catB": 
+	{
+		"label": "PUZZLE",
+		"datalabel": "P",
+		"itemtype": "img",
+		"items": 
+		[
+			"puz1.png",
+			"puz2.png",
+			"puz3.png",
+			"puz4.png",
+			"puz5.png",
+			"puz6.png",
+			"puz7.png",
+			"puz8.png",
+			"puz9.png",
+			"puz10.png",
+			
+		]
+	},
+	"catA": 
+	{
+		"label": "SHAPE",
+		"datalabel": "B",
+		"itemtype": "img",
+		"items": 
+		[
+			"block1.png",
+			"block2.png",
+			"block3.png",
+			"block4.png",
+			"block5.png",
+			"block6.png",
+			"block7.png",
+			"block8.png",
+			"block9.png",
+			"block10.png"
+
+		]
+	},
+	"cat1":
+	{
+		"label": "POSITIVE",
+		"datalabel": "G",
+		"itemtype": "txt",
+		"items":
+		[
+			"sunrise",
+			"health",
+			"diploma",
+			"honor",
+			"cheer",
+			"laughter",
+			"paradise",
+			"freedom",
+			"vacation",
+			"gift"
+		]
+	},
+	"cat2": 
+	{
+		"label": "NEGATIVE",
+		"datalabel": "D",
+		"itemtype": "txt",
+		"items":
+		[
+			"prison",
+			"sickness",
+			"death",
+			"grief",
+			"poison",
+			"disaster",
+			"tragedy",
+			"cancer",
+			"vomit",
+			"agony"
+		]
+	}
+}
+		

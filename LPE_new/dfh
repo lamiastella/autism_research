@@ -1,0 +1,82 @@
+{
+    "showResult": true,
+	"catA": 
+	{
+		"label": "PUZZLE",
+		"datalabel": "P",
+		"itemtype": "img",
+		"items": 
+		[
+			"GSE-GPE-01.png",
+			"GSE-GPE-03.png",
+			"GSE-GPE-05.png",
+			"GSE-GPE-07.png",
+			"GSE-GPE-09.png",
+			"GSE-GPE-11.png",
+			"GSE-GPE-13.png",
+			"GSE-GPE-15.png",
+			"GSE-GPE-17.png",
+			"GSE-GPE-19.png",
+			
+		]
+	},
+	"catB": 
+	{
+		"label": "SHAPE",
+		"datalabel": "B",
+		"itemtype": "img",
+		"items": 
+		[
+			"GSE-GPE-02.png",
+			"GSE-GPE-04.png",
+			"GSE-GPE-06.png",
+			"GSE-GPE-08.png",
+			"GSE-GPE-10.png",
+			"GSE-GPE-12.png",
+			"GSE-GPE-14.png",
+			"GSE-GPE-16.png",
+			"GSE-GPE-18.png",
+			"GSE-GPE-20.png"
+
+		]
+	},
+	"cat1":
+	{
+		"label": "POSITIVE",
+		"datalabel": "G",
+		"itemtype": "txt",
+		"items":
+		[
+			"sunrise",
+			"health",
+			"diploma",
+			"honor",
+			"cheer",
+			"laughter",
+			"paradise",
+			"freedom",
+			"vacation",
+			"gift"
+		]
+	},
+	"cat2": 
+	{
+		"label": "NEGATIVE",
+		"datalabel": "D",
+		"itemtype": "txt",
+		"items":
+		[
+			"prison",
+			"sickness",
+			"death",
+			"grief",
+			"poison",
+			"disaster",
+			"tragedy",
+			"cancer",
+			"vomit",
+			"agony"
+		]
+	}
+}
+		
